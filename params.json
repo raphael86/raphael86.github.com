@@ -1,0 +1,6 @@
+{
+  "name": "이력서",
+  "tagline": "",
+  "body": "\r\n# 신정섭 (Shin Jungseob)\r\n\r\n## 자기소개\r\n\r\n* Software Developer\r\n* 연락처\r\n\t* [![e-mail](https://img.shields.io/badge/email-raphael86%40gamil.com-yellow.svg)](mailto:raphael86%40gamil.com)\r\n\t* ![github](https://img.shields.io/badge/github-%40raphael86-black.svg)\r\n\t* ![mobile](https://img.shields.io/badge/mobile-01021290014-blue.svg)\r\n\r\n## 기술스택\r\n\r\n| classification | stack |\r\n| -------------- | ----- |\r\n| Language  | python, java, javascript, c, c++, html5, markdown|  \r\n\r\n## 근무경력\r\n\r\n* 2012.01 ~ 2016.12 \r\n  - SK planet Software 개발\r\n\r\n## 개인 프로젝트\r\n\r\n* 2016, 파이썬 게임 프로그래밍\r\n* 2015, Node.js를 이용한 실시간 주식 호가 알림 Bot 개발\r\n\r\n## 교육\r\n\r\n* 상계고등학교\r\n* 중원중학교\r\n* 중평초등학교\r\n\r\n## 자격증\r\n\r\n* 운전면허 1종\r\n* 워드프로세서 1급\r\n* 컴퓨터활용능력 2급\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
